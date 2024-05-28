@@ -19,4 +19,4 @@ Lorsque l'utilisateur est connecté en tant que client, il en plus accès à tou
 
 Lorsque l'utilisateur est connecté en tant que propriétaire, il a accès à toutes les logements qui lui appartiennent et pêut gérer les annonces (disponibilités) et les reservations qui y sont lié.
 
-Original : https://Jasskill/AgenceImmoWeb
+Original : https://github.com/Jasskill/AgenceImmoWeb
